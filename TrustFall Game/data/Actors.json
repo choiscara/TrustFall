@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"tj2battler","characterIndex":0,"characterName":"Tajana2walk","classId":1,"equips":[],"faceIndex":0,"faceName":"tajanaface","traits":[{"code":21,"dataId":0,"value":0.5}],"initialLevel":1,"maxLevel":99,"name":"Tajana","nickname":"Tajanie","note":"","profile":"best friend of evvie"}
+{"id":1,"battlerName":"tj2battler","characterIndex":0,"characterName":"Tajana2walk","classId":1,"equips":[],"faceIndex":0,"faceName":"tajanaface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tajana","nickname":"Tajanie","note":"","profile":"best friend of evvie"}
 ]
