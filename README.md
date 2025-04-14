@@ -7,4 +7,4 @@
 
 ## Gold Release: 
 ### Gold Release Webpage/Download:
-[Gold Release](/js/index.html)
+[Gold Release](/TrustFall/index.html)
