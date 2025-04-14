@@ -7,4 +7,4 @@
 
 ## Gold Release: 
 ### Gold Release Webpage/Download:
-[Gold Release](/TrustFall/index.html)
+[Gold Release](/TrustFall_Game/index.html)
